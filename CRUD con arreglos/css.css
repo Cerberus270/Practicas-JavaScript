@@ -1,0 +1,18 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+button{
+    margin: 40px;
+    padding: 20px;
+    border-radius: 6px;
+    border: 2px solid;
+}
+input{
+    padding-top: 5px;
+}
+.contenedor{
+    margin: auto;
+    display: block
+}
+
